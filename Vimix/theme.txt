@@ -26,15 +26,3 @@ terminal-border: "0"
   item_spacing = 12
   selected_item_pixmap_style = "select_*.png"
 }
-
-# Show a countdown message using the label component
-+ label {
-  top = 82%
-  left = 35%
-  width = 30%
-  align = "center"
-  id = "__timeout__"
-  text = "Booting in %d seconds"
-  color = "#a34545"
-  font = "Unifont Regular 16"
-}
