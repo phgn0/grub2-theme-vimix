@@ -15,14 +15,14 @@ terminal-border: "0"
 
 # Show the boot menu
 + boot_menu {
-  left = 15%
-  top = 29%
-  width = 70%
+  left = 10%
+  top = 70%
+  width = 40%
   height = 60%
   item_font = "DejaVu Sans Mono Regular 45"
   item_color = "#cccccc"
   selected_item_color = "#ffffff"
-  item_height = 24
-  item_spacing = 12
+  item_height = 54
+  item_spacing = 20
   selected_item_pixmap_style = "select_*.png"
 }
